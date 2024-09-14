@@ -1,0 +1,15 @@
+.contact {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 0 8px;
+  margin: 5px;
+  margin-left: 15px;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 280px;
+}
+
+.info {
+  margin: 10px 0;
+}

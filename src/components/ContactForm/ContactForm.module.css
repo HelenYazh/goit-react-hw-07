@@ -1,0 +1,29 @@
+.form {
+  border: 1px solid black;
+  margin: 5px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  gap: 10px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  width: 260px;
+}
+
+.errorMsg {
+  color: red;
+}
+
+.btn {
+  padding: 5px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
